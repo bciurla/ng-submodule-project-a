@@ -1,0 +1,3 @@
+[submodule "my-app/my-app/src/common-lib"]
+	path = my-app/my-app/src/common-lib
+	url = https://github.com/bciurla/ng-submodule-common.git
